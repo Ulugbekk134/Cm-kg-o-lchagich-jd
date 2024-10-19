@@ -1,0 +1,29 @@
+@media screen and (max-width: 375px) {
+  .container {
+    width: 250px;
+    height: 100%;
+    margin-top: 15px;
+  }
+  #input {
+    width: 150px;
+    height: 25px;
+  }
+  #input2 {
+    width: 150px;
+    height: 25px;
+  }
+  #btn {
+    width: 100px;
+    height: 25px;
+    margin-right: 20px;
+  }
+  .head {
+    margin: 0 auto;
+    width: 160px;
+  }
+  #p {
+    height: 20px;
+    width: 101px;
+    font-size: 11px;
+  }
+}
